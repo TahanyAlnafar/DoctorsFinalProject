@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doctors Final Project</string>
+    <string name="category">تصنيفات الاطباء</string>
+    <string name="doctors">الاطباء</string>
+    <string name="online_doctors">الاطباء المتاحين</string>
+    <string name="popular">الاكثر شهرة</string>
+    <string name="all">الكل</string>
+    <string name="doctor_name">اسم الطبيب</string>
+    <string name="description">تفاصيل</string>
+    <string name="name">عنوان الموضوع</string>
+</resources>
